@@ -1,0 +1,14 @@
+## 0113: Spiral Matrix
+- [ ] 整理
+- 想法: 
+    - inc_or_dec、col_or_row、num_col、num_row
+    - 一個loop直到其中一個為零
+- 觀察:
+    - 每次都只會遞增/遞減col or row
+        - 第一次col遞增num_col次，第二次遞減num_col-1次
+- 需求:
+    - 一個bool紀錄這次是遞增還是遞減
+    - 一個bool紀錄現在是搞col還是搞row
+- corner case:
+    - `1 <= m, n <= 10`
+- 語法問題紀錄:
