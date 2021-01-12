@@ -1,0 +1,12 @@
+# Array and String
+- [x] 1_Intro_to_array
+    - [ ] 1_intro_to_array
+    - [ ] 2_intro_to_dynamic_array
+    - [x] [Find_Pivot_index](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/)
+    - [x] [Largest_Number_At_Least_Twice_of_Others](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/)
+    - [x] [Plus_One](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/)
+- [ ] 2_Intro_2D_array
+    - [ ] 2_Intro_2D_array
+    - [x] [Diagonal_Traverse](https://leetcode.com/problems/diagonal-traverse/)
+    - [ ] [Spiral_Matrix]
+    - [ ] [Pascal's Triangle]
