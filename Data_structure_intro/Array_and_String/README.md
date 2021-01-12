@@ -2,11 +2,11 @@
 - [x] 1_Intro_to_array
     - [ ] 1_intro_to_array
     - [ ] 2_intro_to_dynamic_array
-    - [x] [Find_Pivot_index](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/)
-    - [x] [Largest_Number_At_Least_Twice_of_Others](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/)
-    - [x] [Plus_One](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/)
+    - [x] 724. [find-pivot-index](https://leetcode.com/problems/find-pivot-index/): Easy
+    - [x] 747. [largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/): Easy
+    - [x] 66. [plus-one](https://leetcode.com/problems/plus-one/): Easy
 - [ ] 2_Intro_2D_array
     - [ ] 2_Intro_2D_array
-    - [x] [Diagonal_Traverse](https://leetcode.com/problems/diagonal-traverse/)
-    - [ ] [Spiral_Matrix]
+    - [x] 498. [diagonal-traverse](https://leetcode.com/problems/diagonal-traverse/): medium
+    - [ ] 54. [spiral-matrix](https://leetcode.com/problems/spiral-matrix/): medium
     - [ ] [Pascal's Triangle]
