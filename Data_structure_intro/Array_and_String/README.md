@@ -12,6 +12,6 @@
     - [x] 118. [pascals-triangle](https://leetcode.com/problems/pascals-triangle/): easy
 - [ ] 3_Intro_to_String
     - [x] 1_Intro_to_string
-    - [ ] [Add Binary]
+    - [x] 67. [add-binary](https://leetcode.com/problems/add-binary/): easy
     - [ ] [Implement strStr()]
     - [ ] [Longest Common Prefix]
