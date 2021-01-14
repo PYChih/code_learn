@@ -8,5 +8,10 @@
 - [ ] 2_Intro_2D_array
     - [ ] 2_Intro_2D_array
     - [x] 498. [diagonal-traverse](https://leetcode.com/problems/diagonal-traverse/): medium
-    - [ ] 54. [spiral-matrix](https://leetcode.com/problems/spiral-matrix/): medium
-    - [ ] [Pascal's Triangle]
+    - [x] 54. [spiral-matrix](https://leetcode.com/problems/spiral-matrix/): medium
+    - [x] 118. [pascals-triangle](https://leetcode.com/problems/pascals-triangle/): easy
+- [ ] 3_Intro_to_String
+    - [x] 1_Intro_to_string
+    - [ ] [Add Binary]
+    - [ ] [Implement strStr()]
+    - [ ] [Longest Common Prefix]
