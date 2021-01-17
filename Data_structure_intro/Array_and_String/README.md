@@ -1,17 +1,34 @@
 # Array and String
 - [x] 1_Intro_to_array
-    - [ ] 1_intro_to_array
-    - [ ] 2_intro_to_dynamic_array
-    - [x] 724. [find-pivot-index](https://leetcode.com/problems/find-pivot-index/): Easy
-    - [x] 747. [largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/): Easy
-    - [x] 66. [plus-one](https://leetcode.com/problems/plus-one/): Easy
-- [ ] 2_Intro_2D_array
-    - [ ] 2_Intro_2D_array
+  - [ ] intro_array
+  - [ ] intro_dynamic_array
+    - [x] 724. [find-pivot-index](https://leetcode.com/problems/find-pivot-index/): easy
+    - [x] 747. [largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/): easy
+    - [x] 66. [plus-one](https://leetcode.com/problems/plus-one/): easy
+- [x] 2_Intro_2D_array
+  - [ ] intro_2D_array
     - [x] 498. [diagonal-traverse](https://leetcode.com/problems/diagonal-traverse/): medium
     - [x] 54. [spiral-matrix](https://leetcode.com/problems/spiral-matrix/): medium
     - [x] 118. [pascals-triangle](https://leetcode.com/problems/pascals-triangle/): easy
-- [ ] 3_Intro_to_String
-    - [x] 1_Intro_to_string
+- [x] 3_Intro_to_String
+  - [x] intro_string
     - [x] 67. [add-binary](https://leetcode.com/problems/add-binary/): easy
     - [x] 28. [implement-strstr](https://leetcode.com/problems/implement-strstr/): easy
     - [x] 14. [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/): easy
+- [ ] 4_Two_pointer_Technique
+  - [ ] two_pointer_technique_scenario_i
+    - [x] 344. [reverse-string](https://leetcode.com/problems/reverse-string/): easy
+    - [ ] 561. [array-partition-i](https://leetcode.com/problems/array-partition-i/): easy
+    - [ ] Two SUM II
+  - [ ] tow_pointer_technique_scenario_ii
+    - [ ] remove element
+    - [ ] max consecutive ones
+    - [ ] minimum size subarray sum
+- [ ]  5_Conclusion
+  - [ ]  Array-related-techniques
+    - [ ] rotate array
+    - [ ] pascal's triangle II
+    - [ ] reverse words in a string
+    - [ ] reverse words in a string iii
+    - [ ] remove duplicates from...
+    - [ ] move zeroes
