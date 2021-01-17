@@ -14,4 +14,4 @@
     - [x] 1_Intro_to_string
     - [x] 67. [add-binary](https://leetcode.com/problems/add-binary/): easy
     - [x] 28. [implement-strstr](https://leetcode.com/problems/implement-strstr/): easy
-    - [ ] [Longest Common Prefix]
+    - [x] 14. [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/): easy
