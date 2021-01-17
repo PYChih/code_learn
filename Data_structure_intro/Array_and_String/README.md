@@ -18,10 +18,10 @@
 - [ ] 4_Two_pointer_Technique
   - [ ] two_pointer_technique_scenario_i
     - [x] 344. [reverse-string](https://leetcode.com/problems/reverse-string/): easy
-    - [ ] 561. [array-partition-i](https://leetcode.com/problems/array-partition-i/): easy
-    - [ ] Two SUM II
+    - [x] 561. [array-partition-i](https://leetcode.com/problems/array-partition-i/): easy
+    - [x] 167. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): easy
   - [ ] tow_pointer_technique_scenario_ii
-    - [ ] remove element
+    - [x] 27. [remove-element](https://leetcode.com/problems/remove-element/): easy
     - [ ] max consecutive ones
     - [ ] minimum size subarray sum
 - [ ]  5_Conclusion
