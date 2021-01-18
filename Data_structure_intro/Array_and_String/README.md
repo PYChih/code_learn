@@ -22,7 +22,7 @@
     - [x] 167. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): easy
   - [ ] tow_pointer_technique_scenario_ii
     - [x] 27. [remove-element](https://leetcode.com/problems/remove-element/): easy
-    - [ ] max consecutive ones
+    - [x] 485. [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/): easy
     - [ ] minimum size subarray sum
 - [ ]  5_Conclusion
   - [ ]  Array-related-techniques
