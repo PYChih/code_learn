@@ -20,10 +20,10 @@
     - [x] 344. [reverse-string](https://leetcode.com/problems/reverse-string/): easy
     - [x] 561. [array-partition-i](https://leetcode.com/problems/array-partition-i/): easy
     - [x] 167. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/): easy
-  - [ ] tow_pointer_technique_scenario_ii
+  - [ ] two_pointer_technique_scenario_ii
     - [x] 27. [remove-element](https://leetcode.com/problems/remove-element/): easy
     - [x] 485. [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/): easy
-    - [ ] minimum size subarray sum
+    - [x] 209. [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/): medium
 - [ ]  5_Conclusion
   - [ ]  Array-related-techniques
     - [ ] rotate array
