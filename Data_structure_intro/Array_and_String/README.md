@@ -25,8 +25,8 @@
     - [x] 485. [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/): easy
     - [x] 209. [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/): medium
 - [ ]  5_Conclusion
-  - [ ]  Array-related-techniques
-    - [ ] rotate array
+  - [x]  Array-related-techniques
+    - [ ] 189. [rotate-array](https://leetcode.com/problems/rotate-array/): medium
     - [ ] pascal's triangle II
     - [ ] reverse words in a string
     - [ ] reverse words in a string iii
