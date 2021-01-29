@@ -27,7 +27,7 @@
 - [ ]  5_Conclusion
   - [x]  Array-related-techniques
     - [ ] 189. [rotate-array](https://leetcode.com/problems/rotate-array/): medium
-    - [ ] pascal's triangle II
+    - [ ] 119. [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/): easy
     - [ ] reverse words in a string
     - [ ] reverse words in a string iii
     - [ ] remove duplicates from...
