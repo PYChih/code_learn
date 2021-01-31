@@ -28,7 +28,7 @@
   - [x]  Array-related-techniques
     - [ ] 189. [rotate-array](https://leetcode.com/problems/rotate-array/): medium
     - [ ] 119. [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/): easy
-    - [ ] reverse words in a string
+    - [ ] 151. [reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/): Medium
     - [ ] reverse words in a string iii
     - [ ] remove duplicates from...
     - [ ] move zeroes
