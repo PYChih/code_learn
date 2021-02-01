@@ -30,5 +30,5 @@
     - [ ] 119. [pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/): easy
     - [ ] 151. [reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/): Medium
     - [x] 557. [reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/): easy
-    - [ ] remove duplicates from...
-    - [ ] move zeroes
+    - [x] 26. [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): easy
+    - [x] 283. [move-zeroes](https://leetcode.com/problems/move-zeroes/): easy
