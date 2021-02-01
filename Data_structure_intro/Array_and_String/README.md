@@ -1,4 +1,4 @@
-# Array and String
+# array-and-string
 - [x] 1_Intro_to_array
   - [x] intro_array
   - [x] intro_dynamic_array
