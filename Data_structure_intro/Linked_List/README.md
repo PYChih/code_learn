@@ -6,7 +6,8 @@
     - [ ] 707. [design-linked-list](https://leetcode.com/problems/design-linked-list/): Medium
 - [ ] 2_Two_Pointer_Technique
   - [x] Two-Pointer in Linked List
-    - [ ] 141. [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/): Easy
+    - [x] 141. [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/): Easy
+    - [x] 142. [linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/): Medium
 - [ ] 3_Classic_Problems
 - [ ] 4_Double_Linked_List
 - [ ] 5_Conclusion
