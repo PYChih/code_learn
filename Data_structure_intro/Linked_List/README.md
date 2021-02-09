@@ -4,13 +4,16 @@
   - [x] Add_Operation-Singly_Linked_List
   - [x] Delete_Operation-Singly_Linked_List
     - [ ] 707. [design-linked-list](https://leetcode.com/problems/design-linked-list/): Medium
-- [ ] 2_Two_Pointer_Technique
+- [x] 2_Two_Pointer_Technique
   - [x] Two-Pointer in Linked List
     - [x] 141. [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/): Easy
     - [x] 142. [linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/): Medium
     - [x] 160. [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/): Easy
-    - [ ] 19. [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/): Medium
+    - [x] 19. [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/): Medium
+  - [x] Summary_Two-Pointer_in_Linked_List
 - [ ] 3_Classic_Problems
+  - [x] Reverse_Linked_List
+    - [ ] 206. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] 4_Double_Linked_List
 - [ ] 5_Conclusion
 
