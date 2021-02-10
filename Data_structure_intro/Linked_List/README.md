@@ -13,7 +13,12 @@
   - [x] Summary_Two-Pointer_in_Linked_List
 - [ ] 3_Classic_Problems
   - [x] Reverse_Linked_List
-    - [ ] 206. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
+    - [ ] 206. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/): Easy
+      - [x] iteratively
+      - [ ] recursively
+    - [ ] can't see
+    - [ ] can't see
+    - [ ] can't see
 - [ ] 4_Double_Linked_List
 - [ ] 5_Conclusion
 
