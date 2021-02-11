@@ -20,5 +20,16 @@
     - [ ] can't see
     - [ ] can't see
 - [ ] 4_Double_Linked_List
+  - [x] Introduction-Double_Linked_List
+  - [x] Add_Operation
+  - [x] Delete_Operation
+    - [ ] 707. [design-linked-list](https://leetcode.com/problems/design-linked-list/): Medium
 - [ ] 5_Conclusion
+  - [x] Summary-Linked_List
+    - [x] 21. [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/): Easy
+    - [ ] addtwonumbers
+    - [ ] flattenamultileveldoubly
+    - [ ] can't see
+    - [ ] copy list with random
+    - [ ] rotatelist
 
