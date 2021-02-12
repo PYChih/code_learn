@@ -27,7 +27,7 @@
 - [ ] 5_Conclusion
   - [x] Summary-Linked_List
     - [x] 21. [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/): Easy
-    - [ ] addtwonumbers
+    - [x] 2. [add-two-numbers](https://leetcode.com/problems/add-two-numbers/): Medium
     - [ ] flattenamultileveldoubly
     - [ ] can't see
     - [ ] copy list with random
