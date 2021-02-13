@@ -30,6 +30,6 @@
     - [x] 2. [add-two-numbers](https://leetcode.com/problems/add-two-numbers/): Medium
     - [x] 430. [flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/): Medium
     - [ ] can't see
-    - [ ] copy list with random
-    - [ ] rotatelist
+    - [x] 138. [copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/): Medium
+    - [ ] 61. [rotate-list](https://leetcode.com/problems/rotate-list/): Medium
 
